@@ -1,0 +1,46 @@
+.left {
+    position: fixed;
+    width: 500px;
+    height: 100%;
+    background-color: navy;
+    color: whitesmoke;
+    z-index: 1;
+}
+
+a.left {
+    border-radius: 50px;
+}
+
+.right {
+    text-align: left;
+    position: relative;
+    padding-left: 600px;
+    padding-right: 250px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+#linkedin {
+    background-color: white;
+}
+
+#ecareers {
+    text-align: center;
+    padding-right: 150px;
+}
+
+
